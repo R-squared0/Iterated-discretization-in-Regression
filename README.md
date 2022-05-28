@@ -12,4 +12,4 @@ The aim of this project is to be able to predict the semi-major axis (named as p
 
 ## Data File
 
-1. `data_ann` : Folder specifically tailored for the `ANN_model.ipynb` file
+1. `data file` : Folder specifically tailored for the `Iterated_Discretization_code.ipynb` file
